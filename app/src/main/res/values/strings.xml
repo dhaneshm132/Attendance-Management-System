@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EAttendance</string>
+    <array name="classes">
+        <item>select Class</item>>
+        <item>II-CSE-A</item>
+        <item>II-CSE-B</item>
+        <item>II-CSE-C</item>
+
+
+    </array>
+    <array name="periods">
+
+        <item>DBMS</item>
+        <item>FOSS</item>
+        <item>CA</item>
+        <item>PS</item>
+        <item>DAA</item>
+        <item>DBMSLAB</item>
+        <item>FOSSLAB</item>
+        <item>DAALAB</item>
+
+    </array>
+
+
+</resources>
